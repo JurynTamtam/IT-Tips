@@ -1,0 +1,86 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">IT Success</string>
+    <string name="app_title">IT Success: 30 Essential Tips</string>
+    <string name="day1">Day 1: Stay Curious</string>
+    <string name="day2">Day 2: Build a Strong Foundation</string>
+    <string name="day3">Day 3: Practice Regularly</string>
+    <string name="day4">Day 4: Join IT Communities</string>
+    <string name="day5">Day 5: Networking Matters </string>
+    <string name="day6">Day 6: Learn to Troubleshoot</string>
+    <string name="day7">Day 7: Time Management </string>
+    <string name="day8">Day 8: Stay Updated </string>
+    <string name="day9">Day 9: Understand the Basics of Cybersecurity </string>
+    <string name="day10">Day 10: Master the Art of Googling </string>
+    <string name="day11">Day 11: Documentation is Key</string>
+    <string name="day12">Day 12: Get Hands-On Experience</string>
+    <string name="day13">Day 13: Learn Version Control</string>
+    <string name="day14">Day 14: Explore Specializations</string>
+    <string name="day15">Day 15: Participate in Hackathons</string>
+    <string name="day16">Day 16: Build a Portfolio</string>
+    <string name="day17">Day 17: Soft Skills Matter</string>
+    <string name="day18">Day 18: Stay Ethical</string>
+    <string name="day19">Day 19: Internships and Co-ops</string>
+    <string name="day20">Day 20: Ask Questions</string>
+    <string name="day21">Day 21: Explore Open Source Projects</string>
+    <string name="day22">Day 22: Learn Agile Methodologies</string>
+    <string name="day23">Day 23: Continuous Learning</string>
+    <string name="day24">Day 24: Stay Organized</string>
+    <string name="day25">Day 25: Soft Skills are Crucial</string>
+    <string name="day26">Day 26: Build a Home Lab</string>
+    <string name="day27">Day 27: Explore Online Courses</string>
+    <string name="day28">Day 28: Backup Your Work</string>
+    <string name="day29">Day 29: Build Resilience</string>
+    <string name="day30">Day 30: Have Fun with IT</string>
+    <string name="day31">REMEMBER!!</string>
+
+    <string name="description1"> IT is a rapidly evolving field, so stay curious about new technologies and developments.</string>
+    <string name="description2"> Ensure you have a solid understanding of fundamental concepts like programming, algorithms, and databases.</string>
+    <string name="description3"> IT skills improve with practice, so code, troubleshoot, and experiment regularly.</string>
+    <string name="description4"> Engage with online and offline communities to connect with fellow students and professionals.</string>
+    <string name="description5"> Build a professional network early on by attending events, joining LinkedIn, and connecting with classmates.</string>
+    <string name="description6"> The ability to troubleshoot issues is crucial in IT. Develop problem-solving skills.</string>
+    <string name="description7"> IT projects can be time-consuming. Learn effective time management to handle assignments and projects.</string>
+    <string name="description8"> Follow industry news, blogs, and forums to stay updated on the latest trends and technologies.</string>
+    <string name="description9"> Learn about the importance of cybersecurity and best practices for keeping systems secure.</string>
+    <string name="description10">Knowing how to search effectively is a valuable skill in IT. Learn to use Google and other resources efficiently.</string>
+    <string name="description11">Practice documenting your work. Good documentation is crucial for collaboration and troubleshooting.</string>
+    <string name="description12">Set up your own projects, experiment with software, and get hands-on experience beyond the classroom.</string>
+    <string name="description13">Understand how version control systems like Git work. Its essential for collaborative coding.</string>
+    <string name="description14">IT is broad. Explore different specializations like software development, network administration, or data science. </string>
+    <string name="description15">Join hackathons and coding competitions to enhance your problem-solving skills.
+</string>
+    <string name="description16">Showcase your projects and skills through a personal portfolio. It can be a great asset when job hunting.</string>
+    <string name="description17">Develop communication and teamwork skills. IT projects often involve collaboration.
+</string>
+    <string name="description18">Understand the ethical considerations in IT, especially when dealing with sensitive data and systems.</string>
+    <string name="description19">Look for internships or co-op programs to gain real-world experience.</string>
+    <string name="description20">Dont hesitate to ask questions. Its better to clarify doubts early on.</string>
+    <string name="description21">Contribute to open source projects to collaborate with experienced developers and enhance your skills.</string>
+    <string name="description22">Understand Agile methodologies commonly used in IT project management.
+</string>
+    <string name="description23">Embrace the mindset of continuous learning. The IT field evolves rapidly, and ongoing education is key.</string>
+    <string name="description24">Use tools like project management software and planners to stay organized, especially when juggling multiple tasks.</string>
+    <string name="description25">Develop communication, teamwork, and presentation skills alongside technical skills.</string>
+    <string name="description26">Set up a home lab to experiment with different technologies in a controlled environment.</string>
+    <string name="description27">Supplement your school curriculum with online courses and tutorials to delve deeper into specific topics.</string>
+    <string name="description28">Regularly back up your projects and important files to avoid data loss.</string>
+    <string name="description29">IT can be challenging. Learn to cope with setbacks, learn from failures, and bounce back stronger.</string>
+    <string name="description30">Enjoy what youre learning. Passion for the field will make your journey more fulfilling.</string>
+    <string name="description31">Remember, your journey in IT is a marathon, not a sprint. Take the time to explore, learn, and enjoy the process of becoming a proficient IT professional.</string>
+
+</resources>

@@ -54,7 +54,8 @@ class Datasource() {
             Tips(R.string.day28, R.drawable.image28, R.string.description28),
             Tips(R.string.day29, R.drawable.image29, R.string.description29),
             Tips(R.string.day30, R.drawable.image30, R.string.description30),
-            Tips(R.string.day31, R.drawable.last, R.string.description31)
+            Tips(R.string.a, R.drawable.last, R.string.description31),
+            Tips(R.string.b, R.drawable.b, R.string.description32)
         )
     }
 }

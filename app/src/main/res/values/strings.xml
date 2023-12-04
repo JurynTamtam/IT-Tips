@@ -46,7 +46,8 @@
     <string name="day28">Day 28: Backup Your Work</string>
     <string name="day29">Day 29: Build Resilience</string>
     <string name="day30">Day 30: Have Fun with IT</string>
-    <string name="day31">REMEMBER!!</string>
+    <string name="a">Everyday</string>
+    <string name="b">Created by</string>
 
     <string name="description1"> IT is a rapidly evolving field, so stay curious about new technologies and developments.</string>
     <string name="description2"> Ensure you have a solid understanding of fundamental concepts like programming, algorithms, and databases.</string>
@@ -82,5 +83,5 @@
     <string name="description29">IT can be challenging. Learn to cope with setbacks, learn from failures, and bounce back stronger.</string>
     <string name="description30">Enjoy what youre learning. Passion for the field will make your journey more fulfilling.</string>
     <string name="description31">Remember, your journey in IT is a marathon, not a sprint. Take the time to explore, learn, and enjoy the process of becoming a proficient IT professional.</string>
-
+    <string name="description32"> Juryn Tamtam  ||  BSIT3</string>
 </resources>

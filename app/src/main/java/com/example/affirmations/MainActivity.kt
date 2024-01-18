@@ -125,5 +125,5 @@ fun TipCard(tip: Tips, modifier: Modifier = Modifier) {
 @Preview
 @Composable
 private fun TipCardPreview() {
-    TipCard(Tips(R.string.day1, R.drawable.image1, R.string.description1))
+    TipCard(Tips(R.string.day1, R.drawable.a1, R.string.description1))
 }

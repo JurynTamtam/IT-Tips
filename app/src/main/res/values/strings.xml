@@ -1,41 +1,82 @@
 <resources>
-    <string name="app_name">IT Success</string>
-    <string name="app_title">IT Success: 30 Essential Tips</string>
-    <string name="day1">Day 1: Stay Curious</string>
-    <string name="day2">Day 2: Build a Strong Foundation</string>
-    <string name="day3">Day 3: Practice Regularly</string>
-    <string name="day4">Day 4: Join IT Communities</string>
-    <string name="day5">Day 5: Networking Matters </string>
-    <string name="day6">Day 6: Learn to Troubleshoot</string>
-    <string name="day7">Day 7: Time Management </string>
-    <string name="day8">Day 8: Stay Updated </string>
-    <string name="day9">Day 9: Understand the Basics of Cybersecurity </string>
-    <string name="day10">Day 10: Master the Art of Googling </string>
-    <string name="day11">Day 11: Documentation is Key</string>
-    <string name="day12">Day 12: Get Hands-On Experience</string>
-    <string name="day13">Day 13: Learn Version Control</string>
-    <string name="day14">Day 14: Explore Specializations</string>
-    <string name="day15">Day 15: Participate in Hackathons</string>
-    <string name="day16">Day 16: Build a Portfolio</string>
-    <string name="day17">Day 17: Soft Skills Matter</string>
-    <string name="day18">Day 18: Stay Ethical</string>
-    <string name="day19">Day 19: Internships and Co-ops</string>
-    <string name="day20">Day 20: Ask Questions</string>
-    <string name="day21">Day 21: Explore Open Source Projects</string>
-    <string name="day22">Day 22: Learn Agile Methodologies</string>
-    <string name="day23">Day 23: Continuous Learning</string>
-    <string name="day24">Day 24: Stay Organized</string>
-    <string name="day25">Day 25: Soft Skills are Crucial</string>
-    <string name="day26">Day 26: Build a Home Lab</string>
-    <string name="day27">Day 27: Explore Online Courses</string>
-    <string name="day28">Day 28: Backup Your Work</string>
-    <string name="day29">Day 29: Build Resilience</string>
-    <string name="day30">Day 30: Have Fun with IT</string>
-    <string name="a">Everyday</string>
-    <string name="b">Created by</string>
+    <string name="app_name">30 days recipe</string>
+    <string name="app_title">30 days recipe</string>
+    <string name="day1">Day 1: ADOBO</string>
+    <string name="day2">Day 2: Bangus Belly</string>
+    <string name="day3">Day 3: Bicol Express</string>
+    <string name="day4">Day 4: Bistek Tagalog</string>
+    <string name="day5">Day 5: Chicken Tinola </string>
+    <string name="day6">Day 6: Chicken Afritada</string>
+    <string name="day7">Day 7: Crispy Pata </string>
+    <string name="day8">Day 8: Dinuguan </string>
+    <string name="day9">Day 9: Ginataang Manok </string>
+    <string name="day10">Day 10: Ginataang Sitaw at Kalabasa </string>
+    <string name="day11">Day 11: Tortang Talong</string>
+    <string name="day12">Day 12: Ginataang Langka</string>
+    <string name="day13">Day 13: Pinakbet</string>
+    <string name="day14">Day 14: Chicken Afritada</string>
+    <string name="day15">Day 15: Pancit Malabon</string>
+    <string name="day16">Day 16: Tinolang Tahong</string>
+    <string name="day17">Day 17: Gising-Gising</string>
+    <string name="day18">Day 18: Tortang Talong with Giniling</string>
+    <string name="day19">Day 19: Bicol Express</string>
+    <string name="day20">Day 20: Pork Sinigang</string>
+    <string name="day21">Day 21: Laing</string>
+    <string name="day22">Day 22: Adobong Pusit</string>
+    <string name="day23">Day 23: Pancit Bihon Guisado</string>
+    <string name="day24">Day 24: Lechon Paksiw</string>
+    <string name="day25">Day 25: Tinumok</string>
+    <string name="day26">Day 26: Pinaupong Manok</string>
+    <string name="day27">Day 27: Crispy Pata</string>
+    <string name="day28">Day 28: Sisig</string>
+    <string name="day29">Day 29: Ginataang Manok</string>
+    <string name="day30">Day 30: Dinuguan</string>
 
-    <string name="description1"> IT is a rapidly evolving field, so stay curious about new technologies and developments.</string>
-    <string name="description2"> Ensure you have a solid understanding of fundamental concepts like programming, algorithms, and databases.</string>
+    <string name="description1">Ingredients:
+        1 kg chicken (cut into serving pieces) or pork belly (cut into cubes)
+        1/2 cup soy sauce
+        1/2 cup vinegar (cane or coconut vinegar works well)
+        1 head garlic (minced)
+        1 onion (sliced)
+        3-4 pieces dried bay leaves
+        1 teaspoon whole peppercorns
+        1 cup water
+        2 tablespoons cooking oil
+        Salt (to taste)
+        Sugar (optional, to balance the flavors)
+        Instructions:
+        In a bowl, marinate the chicken or pork in soy sauce, vinegar, minced garlic, and peppercorns for at least 30 minutes (overnight marination is even better for deeper flavors).
+        Heat the cooking oil in a pan over medium heat. Once hot, add the marinated meat (reserve the marinade) and brown it on all sides.
+        Add the sliced onion and sauté until translucent.
+        Pour in the marinade and add the dried bay leaves. Bring to a boil.
+        Once boiling, lower the heat, cover the pan, and let it simmer for about 30-40 minutes or until the meat is tender. Stir occasionally to ensure even cooking.
+        Add water if needed, depending on how much sauce you want.
+        Season with salt to taste. If the sauce is too tangy for your liking, you can add a bit of sugar to balance the flavors.
+        Serve hot with steamed rice.
+</string>
+    <string name="description2">
+        Ingredients:
+500g shrimp (head-on for more flavor, peeled and deveined)
+1 medium-sized onion (quartered)
+2 medium-sized tomatoes (quartered)
+1 radish (sliced)
+1 eggplant (sliced)
+1 bunch of kangkong (water spinach), or any leafy greens like spinach or bok choy
+1 packet (40g) sinigang mix (available in Filipino/Asian stores)
+1 liter water
+Fish sauce or salt (to taste)
+Freshly ground black pepper (to taste)
+Instructions:
+In a pot, bring the water to a boil.
+Add the onions and tomatoes. Let it simmer for a few minutes until the tomatoes start to soften and release their juices.
+Add the radish and eggplant. Simmer until they start to soften.
+Add the sinigang mix and stir to dissolve it into the broth.
+Add the shrimp and cook until they turn pink and opaque.
+Add the kangkong or leafy greens and cook for another minute until wilted.
+Season with fish sauce or salt and freshly ground black pepper to taste.
+Serve hot with steamed rice.
+
+    </string>
     <string name="description3"> IT skills improve with practice, so code, troubleshoot, and experiment regularly.</string>
     <string name="description4"> Engage with online and offline communities to connect with fellow students and professionals.</string>
     <string name="description5"> Build a professional network early on by attending events, joining LinkedIn, and connecting with classmates.</string>
@@ -67,6 +108,4 @@
     <string name="description28">Regularly back up your projects and important files to avoid data loss.</string>
     <string name="description29">IT can be challenging. Learn to cope with setbacks, learn from failures, and bounce back stronger.</string>
     <string name="description30">Enjoy what youre learning. Passion for the field will make your journey more fulfilling.</string>
-    <string name="description31">Remember, your journey in IT is a marathon, not a sprint. Take the time to explore, learn, and enjoy the process of becoming a proficient IT professional.</string>
-    <string name="description32"> Juryn Tamtam  ||  BSIT3</string>
 </resources>
